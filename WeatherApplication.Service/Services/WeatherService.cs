@@ -1,5 +1,5 @@
-﻿using WeatherApplication.Database.Repositories.Interfaces;
-using Service.ServiceInterfaces;
+﻿using Service.ServiceInterfaces;
+using WeatherApplication.Database.Repositories.Interfaces;
 
 namespace WeatherApplication.Service;
 

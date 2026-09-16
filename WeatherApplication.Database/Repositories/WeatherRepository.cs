@@ -1,6 +1,5 @@
-﻿using WeatherApplication.Database.Context.Context;
-using WeatherApplication.Database;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using WeatherApplication.Database.Context.Context;
 using WeatherApplication.Database.Repositories.Interfaces;
 
 namespace WeatherApplication.Database.Repositories;

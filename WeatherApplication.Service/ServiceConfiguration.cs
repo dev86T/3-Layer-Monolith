@@ -1,6 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Service.ServiceInterfaces;
-using WeatherApplication.Service;
 
 namespace WeatherApplication.Service;
 

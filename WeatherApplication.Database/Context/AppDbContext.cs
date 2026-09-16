@@ -1,5 +1,5 @@
-using WeatherApplication.Database.Entities;
 using Microsoft.EntityFrameworkCore;
+using WeatherApplication.Database.Entities;
 
 namespace WeatherApplication.Database.Context.Context;
 
