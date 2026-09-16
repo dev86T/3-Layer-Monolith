@@ -1,0 +1,14 @@
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Database\obj\Debug\net10.0\WeatherApplication.Database.csproj.AssemblyReference.cache
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Database\obj\Debug\net10.0\WeatherApplication.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Database\obj\Debug\net10.0\WeatherApplication.Database.AssemblyInfoInputs.cache
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Database\obj\Debug\net10.0\WeatherApplication.Database.AssemblyInfo.cs
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Database\obj\Debug\net10.0\WeatherApplication.Database.csproj.CoreCompileInputs.cache
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Database\bin\Debug\net10.0\WeatherApplication.Database.deps.json
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Database\bin\Debug\net10.0\WeatherApplication.Database.runtimeconfig.json
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Database\bin\Debug\net10.0\WeatherApplication.Database.dll
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Database\bin\Debug\net10.0\WeatherApplication.Database.pdb
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Database\obj\Debug\net10.0\WeatherApplication.Database.dll
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Database\obj\Debug\net10.0\refint\WeatherApplication.Database.dll
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Database\obj\Debug\net10.0\WeatherApplication.Database.pdb
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Database\obj\Debug\net10.0\WeatherApplication.Database.genruntimeconfig.cache
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Database\obj\Debug\net10.0\ref\WeatherApplication.Database.dll

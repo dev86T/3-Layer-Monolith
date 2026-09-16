@@ -1,0 +1,17 @@
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\bin\Debug\net10.0\WeatherApplication.Service.deps.json
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\bin\Debug\net10.0\WeatherApplication.Service.runtimeconfig.json
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\bin\Debug\net10.0\WeatherApplication.Service.dll
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\bin\Debug\net10.0\WeatherApplication.Service.pdb
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\bin\Debug\net10.0\WeatherApplication.Database.dll
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\bin\Debug\net10.0\WeatherApplication.Database.pdb
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\obj\Debug\net10.0\WeatherApplication.Service.csproj.AssemblyReference.cache
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\obj\Debug\net10.0\WeatherApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\obj\Debug\net10.0\WeatherApplication.Service.AssemblyInfoInputs.cache
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\obj\Debug\net10.0\WeatherApplication.Service.AssemblyInfo.cs
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\obj\Debug\net10.0\WeatherApplication.Service.csproj.CoreCompileInputs.cache
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\obj\Debug\net10.0\WeatherA.D0FEA28F.Up2Date
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\obj\Debug\net10.0\WeatherApplication.Service.dll
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\obj\Debug\net10.0\refint\WeatherApplication.Service.dll
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\obj\Debug\net10.0\WeatherApplication.Service.pdb
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\obj\Debug\net10.0\WeatherApplication.Service.genruntimeconfig.cache
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\obj\Debug\net10.0\ref\WeatherApplication.Service.dll

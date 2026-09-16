@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{798475AE-016F-4DC7-972A-B385B400FB20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherApplication.Web", "WeatherApplication.Web\WeatherApplication.Web.csproj", "{AA03B8DE-C12A-43B7-8403-6E3C192CA5A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherApplication.Service", "WeatherApplication.Service\WeatherApplication.Service.csproj", "{836E7E68-0A6E-479A-889A-A53CE52E6010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherApplication.Database", "WeatherApplication.Database\WeatherApplication.Database.csproj", "{4ED5E13F-FE18-4C2D-95A0-44AE9E302C8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA03B8DE-C12A-43B7-8403-6E3C192CA5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA03B8DE-C12A-43B7-8403-6E3C192CA5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA03B8DE-C12A-43B7-8403-6E3C192CA5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA03B8DE-C12A-43B7-8403-6E3C192CA5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836E7E68-0A6E-479A-889A-A53CE52E6010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836E7E68-0A6E-479A-889A-A53CE52E6010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836E7E68-0A6E-479A-889A-A53CE52E6010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836E7E68-0A6E-479A-889A-A53CE52E6010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED5E13F-FE18-4C2D-95A0-44AE9E302C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED5E13F-FE18-4C2D-95A0-44AE9E302C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED5E13F-FE18-4C2D-95A0-44AE9E302C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED5E13F-FE18-4C2D-95A0-44AE9E302C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AA03B8DE-C12A-43B7-8403-6E3C192CA5A5} = {798475AE-016F-4DC7-972A-B385B400FB20}
+		{836E7E68-0A6E-479A-889A-A53CE52E6010} = {798475AE-016F-4DC7-972A-B385B400FB20}
+		{4ED5E13F-FE18-4C2D-95A0-44AE9E302C8C} = {798475AE-016F-4DC7-972A-B385B400FB20}
+	EndGlobalSection
+EndGlobal
