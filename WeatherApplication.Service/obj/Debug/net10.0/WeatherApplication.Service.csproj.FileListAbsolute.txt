@@ -15,3 +15,4 @@ C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\obj\D
 C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\obj\Debug\net10.0\WeatherApplication.Service.pdb
 C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\obj\Debug\net10.0\WeatherApplication.Service.genruntimeconfig.cache
 C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\obj\Debug\net10.0\ref\WeatherApplication.Service.dll
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Service\obj\Debug\net10.0\WeatherApplication.Service.sourcelink.json

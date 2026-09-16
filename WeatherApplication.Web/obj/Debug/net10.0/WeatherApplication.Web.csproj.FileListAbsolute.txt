@@ -173,3 +173,6 @@ C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Web\obj\Debug
 C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Web\obj\Debug\net10.0\WeatherApplication.Web.pdb
 C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Web\obj\Debug\net10.0\WeatherApplication.Web.genruntimeconfig.cache
 C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Web\obj\Debug\net10.0\ref\WeatherApplication.Web.dll
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Web\obj\Debug\net10.0\WeatherApplication.Web.sourcelink.json
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Web\bin\Debug\net10.0\WeatherApplication.Web.xml
+C:\Users\shajb\RiderProjects\WeatherApplication\WeatherApplication.Web\obj\Debug\net10.0\WeatherApplication.Web.xml
