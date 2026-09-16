@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{798475AE-016F-4DC7-972A-B385B400FB20}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile = Dockerfile
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherApplication.Web", "WeatherApplication.Web\WeatherApplication.Web.csproj", "{AA03B8DE-C12A-43B7-8403-6E3C192CA5A5}"
 EndProject
