@@ -8,6 +8,7 @@ public static class ServiceConfiguration
     public static IServiceCollection AddServices(this IServiceCollection services)
     {
         services.AddScoped<IWeatherService, WeatherService>();
+        services.AddScoped<IPlayingWithWordsService, PlayingWithWordsService>();
         return services;
     }
 }

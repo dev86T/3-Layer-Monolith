@@ -4,14 +4,19 @@
         <name>WeatherApplication.Web</name>
     </assembly>
     <members>
+        <member name="M:WeatherApplication.Web.Controllers.PlayingWithWordsController.PlayingWithWords(WeatherApplication.Service.Enum.PlayingWithWordsEnum,System.String,System.Threading.CancellationToken)">
+            <summary>
+                Playing with some text messages
+            </summary>
+        </member>
         <member name="M:WeatherApplication.Web.Controllers.WeatherController.GetWeather(System.String)">
             <summary>
-            Random weather for the random city
+                Random weather for the random city
             </summary>
         </member>
         <member name="M:WeatherApplication.Web.Controllers.WeatherController.GetWeatherFromDb(System.Threading.CancellationToken)">
             <summary>
-            Constant weather from DB data.
+                Constant weather from DB data.
             </summary>
         </member>
         <member name="T:Program">
