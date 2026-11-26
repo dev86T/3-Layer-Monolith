@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ViewFeatures;
 using Service.ServiceInterfaces;
 using WeatherApplication.Service.Enum;
 
@@ -12,6 +13,7 @@ public class PlayingWithWordsController : Controller
     {
         _playingWithWordsService = playingWithWordsService;
     }
+
     /// <summary>
     ///     Playing with some text messages
     /// </summary>
@@ -19,7 +21,11 @@ public class PlayingWithWordsController : Controller
     public async Task<IActionResult> PlayingWithWords(PlayingWithWordsEnum wordsEnum, string word,
         CancellationToken cancellationToken)
     {
-        var result = await _playingWithWordsService.GetNewWord(wordsEnum, word);
+        if (string.IsNullOrEmpty(word))
+        {
+            return BadRequest("Null or Empty word");
+        }
+        var result = await _playingWithWordsService.GetNewWord(wordsEnum, word, cancellationToken);
         return Ok(result);
     }
 }
