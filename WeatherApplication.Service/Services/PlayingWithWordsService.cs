@@ -7,7 +7,7 @@ public class PlayingWithWordsService : IPlayingWithWordsService
 {
     public async Task<string> GetNewWord(
         PlayingWithWordsEnum wordsEnum,
-        string word)
+        string word, CancellationToken cancellationToken)
     {
         switch (wordsEnum)
         {
